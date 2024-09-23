@@ -1,0 +1,8 @@
+name: CAltManager
+version: '1.0'
+main: org.charlie.cAltManager.CAltManager
+api-version: '1.20'
+commands:
+  alts:
+    description: "View all accounts connected to the same IP as the provided username."
+    permission: caltmanager.alts
